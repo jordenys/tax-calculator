@@ -1,0 +1,9 @@
+{
+	"info": {
+		"name": "TaxJar SmartCalcs",
+		"_postman_id": "5ff14d73-47ed-eada-243c-81945f9b98ea",
+		"description": "A modern, robust sales tax API built for developers.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": []
+}
